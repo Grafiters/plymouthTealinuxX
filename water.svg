@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19.665422mm"
+   height="10.069009mm"
+   viewBox="0 0 19.665423 10.069009"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="water.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="30.229693"
+     inkscape:cy="6.7707599"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-145.13753,-85.590496)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4808"
+       d="m 158.59104,85.765624 c 0,0 0.93587,0.2689 2.0811,0.796183 0.79354,0.365358 1.6876,0.85477 2.44048,1.464738 0.98654,0.799277 1.73069,1.805554 1.68863,3.010959 -0.12047,3.4529 -8.0554,6.04654 -15.57991,3.75362 -4.03665,-1.230087 -5.12131,-4.160975 -3.07308,-6.386826 0.65269,-0.709292 1.62351,-1.346992 2.91831,-1.835249 0.75477,-0.284615 1.61962,-0.518451 2.59572,-0.686086 1.01235,-0.173861 2.14437,-0.276514 3.39734,-0.290756 1.08599,-0.01234 2.26285,0.04173 3.53141,0.173417"
+       style="fill:#c48a65;fill-opacity:1;stroke:none;stroke-width:0.10039598px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cssscssssc" />
+  </g>
+</svg>
