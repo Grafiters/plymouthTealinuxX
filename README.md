@@ -15,5 +15,5 @@ sudo apt install inkscape
 sudo apt-get install synfigstudio
 ```
 #for edit your effect and fuse your assets for make you video or GIF
-! don't import your assets
- just open your assets 
+- ! don't import your assets
+- just open your assets 
